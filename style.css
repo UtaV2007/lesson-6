@@ -1,0 +1,39 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+body {
+    background-color: ;
+}
+
+header {
+    width: 100%;
+    position: fixed;
+}
+
+header > nav {
+    width: 1166px;
+    height: 80px;
+    margin: 0 auto;
+}
+
+nav > a {
+    margin-right: 35px;
+}
+
+main {
+    margin: 0 auto;
+    width: 1166px;
+    height: 400px;
+}
+
+footer {
+    height: 200px;
+    width: 100px;
+}
+
